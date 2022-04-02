@@ -1,2 +1,0 @@
-# birkoff.ng
-Birkoff.ng
